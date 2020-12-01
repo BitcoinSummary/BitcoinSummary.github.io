@@ -294,11 +294,3 @@ collections:
     output: true
     permalink: /:collection/:path/
 
---
-title: Portfolio
-layout: collection
-permalink: /portfolio/
-collection: portfolio
-entries_layout: grid
-classes: wide
----

@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://github.com/BitcoinSummary/BitcoinSummary.github.io/blob/BitcoinSummary-main/_portfolio/foo-bar-website
+  #- title: "Quick-Start Guide"
+    #url: https://github.com/BitcoinSummary/BitcoinSummary.github.io/blob/BitcoinSummary-main/_portfolio/foo-bar-website
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

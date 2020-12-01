@@ -292,7 +292,7 @@ defaults:
 collections:
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:https://github.com/BitcoinSummary/BitcoinSummary.github.io/blob/BitcoinSummary-main/_portfolio/foo-bar-website.md/
 
 ---
 title: Portfolio
